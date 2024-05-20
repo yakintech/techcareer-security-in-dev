@@ -1,0 +1,22 @@
+{
+  "name": "techcareer-owasp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.0",
+    "express-rate-limit": "^7.2.0",
+    "express-slow-down": "^2.0.3",
+    "helmet": "^7.1.0",
+    "i": "^0.3.7",
+    "npm": "^10.8.0",
+    "uuid": "^9.0.1"
+  }
+}
